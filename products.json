@@ -1,0 +1,130 @@
+[
+    {
+        "id": 1,
+        "name": "ALL SZN TEE",
+        "brand": "Adidas",
+        "price": 30,
+        "description": "<strong> A MINIMALIST TEE BUILT FOR COMFORT. </strong> <br> This clean, minimalist adidas tee is the perfect shirt to relax in after a long day, or to pair with any bottoms for a casual look. Its loose, versatile fit makes it a great blank canvas for any adventure the day takes you on. The super-soft cotton single jersey build holds up to regular wear.",
+        "image": "Images/products/f1.jpeg"
+    },
+    {
+        "id": 2,
+        "name": "TEXTURED STRIPE POLO SHIRT",
+        "brand": "Adidas",
+        "price": 46,
+        "description": "<strong> A BREATHABLE GOLF SHIRT MADE WITH RECYCLED MATERIALS.</strong> <br>When the day is sure to warm up, stay comfortable and keep the shots coming in this adidas golf polo shirt. The lightweight, breathable knit helps keep you cool as the course heats up. A classic Henley collar completes the style that looks good with everything. <br> Made with 100% recycled materials, this product represents just one of our solutions to help end plastic waste.",
+        "image": "Images/products/f2.jpeg"
+    },
+    {
+        "id": 3,
+        "name": "TEXTURED STRIPE POLO SHIRT",
+        "brand": "Adidas",
+        "price": 46,
+        "description": "<strong> A BREATHABLE GOLF SHIRT MADE WITH RECYCLED MATERIALS.</strong> <br>When the day is sure to warm up, stay comfortable and keep the shots coming in this adidas golf polo shirt. The lightweight, breathable knit helps keep you cool as the course heats up. A classic Henley collar completes the style that looks good with everything. <br> Made with 100% recycled materials, this product represents just one of our solutions to help end plastic waste.",
+        "image": "Images/products/f3.jpeg"
+    },
+    {
+        "id": 4,
+        "name": "LIQUID FOIL BADGE OF SPORT GRAPHIC TEE",
+        "brand": "Adidas",
+        "price": 24,
+        "description": "<strong> GET NOTICED WEARING THIS FRESH TAKE ON THE SPORTY LOGO.</strong> <br>For a super-modern take on metalics, you'll want this adidas logo t-shirt. The striking, swirling lines will have everyone doing double takes. And this soft cotton t-shirt also does double duty, relaxing on your couch or cruising around the neighborhood.<br> Our cotton products support more sustainable cotton farming.",
+        "image": "Images/products/f4.jpeg"
+    },
+    {
+        "id": 5,
+        "name": "LIQUID FOIL BADGE OF SPORT GRAPHIC TEE",
+        "brand": "Adidas",
+        "price": 24,
+        "description": "<strong> GET NOTICED WEARING THIS FRESH TAKE ON THE SPORTY LOGO.</strong> <br>For a super-modern take on metalics, you'll want this adidas logo t-shirt. The striking, swirling lines will have everyone doing double takes. And this soft cotton t-shirt also does double duty, relaxing on your couch or cruising around the neighborhood.<br> Our cotton products support more sustainable cotton farming.",
+        "image": "Images/products/f5.jpeg"
+    },
+    {
+        "id": 6,
+        "name": "LIQUID FOIL BADGE OF SPORT GRAPHIC TEE",
+        "brand": "Adidas",
+        "price": 24,
+        "description": "<strong> GET NOTICED WEARING THIS FRESH TAKE ON THE SPORTY LOGO.</strong> <br>For a super-modern take on metalics, you'll want this adidas logo t-shirt. The striking, swirling lines will have everyone doing double takes. And this soft cotton t-shirt also does double duty, relaxing on your couch or cruising around the neighborhood.<br> Our cotton products support more sustainable cotton farming.",
+        "image": "Images/products/f6.jpeg"
+    },
+    {
+        "id": 7,
+        "name": "TEXTURED STRIPE POLO SHIRT",
+        "brand": "Adidas",
+        "price": 46,
+        "description": "<strong> A BREATHABLE GOLF SHIRT MADE WITH RECYCLED MATERIALS.</strong> <br>When the day is sure to warm up, stay comfortable and keep the shots coming in this adidas golf polo shirt. The lightweight, breathable knit helps keep you cool as the course heats up. A classic Henley collar completes the style that looks good with everything. <br> Made with 100% recycled materials, this product represents just one of our solutions to help end plastic waste.",
+        "image": "Images/products/f7.jpeg"
+    },
+    {
+        "id": 8,
+        "name": "LIQUID FOIL BADGE OF SPORT GRAPHIC TEE",
+        "brand": "Adidas",
+        "price": 24,
+        "description": "<strong> GET NOTICED WEARING THIS FRESH TAKE ON THE SPORTY LOGO.</strong> <br>For a super-modern take on metalics, you'll want this adidas logo t-shirt. The striking, swirling lines will have everyone doing double takes. And this soft cotton t-shirt also does double duty, relaxing on your couch or cruising around the neighborhood.<br> Our cotton products support more sustainable cotton farming.",
+        "image": "Images/products/f8.jpeg"
+    },
+    {
+        "id": 9,
+        "name": "LIQUID FOIL BADGE OF SPORT GRAPHIC TEE",
+        "brand": "Adidas",
+        "price": 26,
+        "description": "<strong> GET NOTICED WEARING THIS FRESH TAKE ON THE SPORTY LOGO.</strong> <br>For a super-modern take on metalics, you'll want this adidas logo t-shirt. The striking, swirling lines will have everyone doing double takes. And this soft cotton t-shirt also does double duty, relaxing on your couch or cruising around the neighborhood.<br> Our cotton products support more sustainable cotton farming.",
+        "image": "Images/products/n1.jpeg"
+    },
+    {
+        "id": 10,
+        "name": "LIQUID FOIL BADGE OF SPORT GRAPHIC TEE",
+        "brand": "Adidas",
+        "price": 29,
+        "description": "<strong> GET NOTICED WEARING THIS FRESH TAKE ON THE SPORTY LOGO.</strong> <br>For a super-modern take on metalics, you'll want this adidas logo t-shirt. The striking, swirling lines will have everyone doing double takes. And this soft cotton t-shirt also does double duty, relaxing on your couch or cruising around the neighborhood.<br> Our cotton products support more sustainable cotton farming.",
+        "image": "Images/products/n2.jpeg"
+    },
+    {
+        "id": 11,
+        "name": "LIQUID FOIL BADGE OF SPORT GRAPHIC TEE",
+        "brand": "Adidas",
+        "price": 29,
+        "description": "<strong> GET NOTICED WEARING THIS FRESH TAKE ON THE SPORTY LOGO.</strong> <br>For a super-modern take on metalics, you'll want this adidas logo t-shirt. The striking, swirling lines will have everyone doing double takes. And this soft cotton t-shirt also does double duty, relaxing on your couch or cruising around the neighborhood.<br> Our cotton products support more sustainable cotton farming.",
+        "image": "Images/products/n3.jpeg"
+    },
+    {
+        "id": 12,
+        "name": "LIQUID FOIL BADGE OF SPORT GRAPHIC TEE",
+        "brand": "Adidas",
+        "price": 24,
+        "description": "<strong> GET NOTICED WEARING THIS FRESH TAKE ON THE SPORTY LOGO.</strong> <br>For a super-modern take on metalics, you'll want this adidas logo t-shirt. The striking, swirling lines will have everyone doing double takes. And this soft cotton t-shirt also does double duty, relaxing on your couch or cruising around the neighborhood.<br> Our cotton products support more sustainable cotton farming.",
+        "image": "Images/products/n4.jpeg"
+    },
+    {
+        "id": 13,
+        "name": "LIQUID FOIL BADGE OF SPORT GRAPHIC TEE",
+        "brand": "Adidas",
+        "price": 26,
+        "description": "<strong> GET NOTICED WEARING THIS FRESH TAKE ON THE SPORTY LOGO.</strong> <br>For a super-modern take on metalics, you'll want this adidas logo t-shirt. The striking, swirling lines will have everyone doing double takes. And this soft cotton t-shirt also does double duty, relaxing on your couch or cruising around the neighborhood.<br> Our cotton products support more sustainable cotton farming.",
+        "image": "Images/products/n5.jpeg"
+    },
+    {
+        "id": 14,
+        "name": "LIQUID FOIL BADGE OF SPORT GRAPHIC TEE",
+        "brand": "Adidas",
+        "price": 24,
+        "description": "<strong> GET NOTICED WEARING THIS FRESH TAKE ON THE SPORTY LOGO.</strong> <br>For a super-modern take on metalics, you'll want this adidas logo t-shirt. The striking, swirling lines will have everyone doing double takes. And this soft cotton t-shirt also does double duty, relaxing on your couch or cruising around the neighborhood.<br> Our cotton products support more sustainable cotton farming.",
+        "image": "Images/products/n6.jpeg"
+    },
+    {
+        "id": 15,
+        "name": "LIQUID FOIL BADGE OF SPORT GRAPHIC TEE",
+        "brand": "Adidas",
+        "price": 29,
+        "description": "<strong> GET NOTICED WEARING THIS FRESH TAKE ON THE SPORTY LOGO.</strong> <br>For a super-modern take on metalics, you'll want this adidas logo t-shirt. The striking, swirling lines will have everyone doing double takes. And this soft cotton t-shirt also does double duty, relaxing on your couch or cruising around the neighborhood.<br> Our cotton products support more sustainable cotton farming.",
+        "image": "Images/products/n7.jpeg"
+    },
+    {
+        "id": 16,
+        "name": "LIQUID FOIL BADGE OF SPORT GRAPHIC TEE",
+        "brand": "Adidas",
+        "price": 27,
+        "description": "<strong> GET NOTICED WEARING THIS FRESH TAKE ON THE SPORTY LOGO.</strong> <br>For a super-modern take on metalics, you'll want this adidas logo t-shirt. The striking, swirling lines will have everyone doing double takes. And this soft cotton t-shirt also does double duty, relaxing on your couch or cruising around the neighborhood.<br> Our cotton products support more sustainable cotton farming.",
+        "image": "Images/products/n8.jpeg"
+    }
+]
